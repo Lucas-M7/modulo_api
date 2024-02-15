@@ -1,0 +1,17 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\bin\Debug\net8.0\consumindoAPI.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\bin\Debug\net8.0\consumindoAPI.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\bin\Debug\net8.0\consumindoAPI.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\bin\Debug\net8.0\consumindoAPI.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\bin\Debug\net8.0\consumindoAPI.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\refint\consumindoAPI.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\ref\consumindoAPI.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_api\consumindoAPI\obj\Debug\net8.0\consumindoAPI.csproj.CopyComplete
