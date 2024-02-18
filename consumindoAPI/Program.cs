@@ -7,7 +7,7 @@ using var client = new HttpClient();
 
 // Definir a URL da API
 
-var url = "https://date.nager.at/api/v3/PublicHolidays/2024/BR";
+var url = "https://api.kanye.rest";
 
 try
 {
